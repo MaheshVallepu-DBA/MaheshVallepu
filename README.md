@@ -286,13 +286,13 @@ JNTU Anantapur (JNTUA), Andhra Pradesh
 
 <div align="center">
 
-![Mahesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaheshVallepu-DBA&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&title_color=C74634&icon_color=C74634&text_color=ffffff&bg_color=0d1117)
+<img src="https://github-readme-stats.vercel.app/api?username=MaheshVallepu-DBA&show_icons=true&theme=radical&hide_border=true&count_private=true&title_color=C74634&icon_color=C74634&text_color=ffffff&bg_color=0d1117" alt="Mahesh GitHub Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaheshVallepu-DBA&layout=compact&theme=radical&hide_border=true&title_color=C74634&text_color=ffffff&bg_color=0d1117)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaheshVallepu-DBA&layout=compact&theme=radical&hide_border=true&title_color=C74634&text_color=ffffff&bg_color=0d1117" alt="Top Languages" />
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MaheshVallepu-DBA&theme=radical&hide_border=true&ring=C74634&fire=C74634&currStreakLabel=C74634&background=0d1117)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com?user=MaheshVallepu-DBA&theme=radical&hide_border=true&ring=C74634&fire=C74634&currStreakLabel=C74634&background=0d1117" alt="GitHub Streak" />
 
-[![Mahesh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MaheshVallepu-DBA&bg_color=0d1117&color=C74634&line=C74634&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MaheshVallepu-DBA&bg_color=0d1117&color=C74634&line=C74634&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
 
 </div>
 
